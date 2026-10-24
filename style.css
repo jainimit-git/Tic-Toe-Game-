@@ -8,6 +8,22 @@ body{
     text-align:center;
 }
 
+#msg{
+    font-size:2rem;
+    font-weight:bold;
+
+}
+#new-btn{
+    height:60px;
+    width:60px;
+    padding:5px;
+    background-color: greenyellow;
+}
+.hide{
+    display:none;
+    
+}
+
 .container{
     height:90vh;
     display:flex;
